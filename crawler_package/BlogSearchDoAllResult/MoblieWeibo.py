@@ -102,6 +102,3 @@ class MoblieWeibo:  # 模拟登陆
         except Exception, e:
             print "[Error]Cant't download: %s:%s" %(fName,e)
 
-
-
-# MoblieWeibo().login('18826103742', '18318210010')  # 734093894@qq.com   18826103742
