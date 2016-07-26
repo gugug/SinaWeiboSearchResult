@@ -66,7 +66,7 @@ def start_search(time_dir,one_blog):
     result_dict.setdefault(one_blog,[blog_id,content,total_originator,post_time,comment_num,repost_num,like_num])
 
 
-MoblieWeibo().login('1939777358@qq.com', '123456a') #'70705420yc@sina.com', '1234567') ('meilanyiyou419@163.com','aaa333')
+MoblieWeibo().login('1939777358@qq.com', 'password') # 登陆
 serach_list(["奥运村", "曼联VS曼城", "台湾游览车起火", "南海"])
 
 
