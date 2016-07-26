@@ -14,8 +14,7 @@ def run():
         :return:
     """
 
-    MoblieWeibo().login('1939777358@qq.com', '123456a')
-    # '70705420yc@sina.com', '1234567') ('meilanyiyou419@163.com','aaa333') 'odlmyfbw@sina.cn','tttt5555'
+    MoblieWeibo().login('', '')
     serach_list(["南海", "奥运村", "菲律宾"])
 
 
